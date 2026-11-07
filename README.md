@@ -100,7 +100,6 @@ I am a Computer Science Engineer building production-minded systems at the inter
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aparijit05072004&theme=tokyonight" alt="Aparijit's GitHub Summary" width="98%" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aparijit05072004&theme=tokyonight" alt="Top Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=aparijit05072004&theme=tokyonight&hide_border=true&background=0B0D16" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
