@@ -7,7 +7,7 @@
   <a href="mailto:aparijitchakraborty@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
   <p>
-    <strong>Computer Science Engineer (B.Tech '26 @ SRMIST, CGPA: 8.1/10)</strong> &nbsp;·&nbsp; Applied AI / ML &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Software Engineering<br />
+    <strong>Computer Science Engineer (B.Tech '26 @ SRMIST, CGPA: 8.1/10)</strong>  ·  Applied AI / ML  ·  Data Analytics  ·  Software Engineering<br />
     <sub>📍 Bengaluru, Karnataka, India</sub>
   </p>
 </div>
@@ -16,10 +16,10 @@
 
 ## `01` / About Me
 
-I am a Computer Science Engineer building production-minded systems at the intersection of **multimodal generative AI, high-dimensional machine learning, and automated analytics**. I focus on taking complex signals and messy real-world datasets through the full engineering lifecycle — from deterministic preprocessing and model architecture to rigorous CI validation and executive reporting.
+I am a Computer Science Engineer building production-minded systems at the intersection of **multimodal generative AI, geospatial computer vision, high-dimensional machine learning, and automated analytics**. I focus on taking complex signals and messy real-world datasets through the full engineering lifecycle — from deterministic preprocessing and model architecture to rigorous CI validation and executive reporting.
 
 - 💼 **Industry Experience:** Former **Data Science Intern at Corizo Edutech Pvt. Ltd.** (Dec 2025 – Feb 2026), engineering pass/fail semiconductor yield classifiers across 1,567 entities and 591 sensor signals alongside pure NumPy statistical pipelines on NHANES health data.
-- 🎯 **Current Flagship Build:** Architecting **CardioScribe-v2**, a multimodal 12-lead ECG-to-clinical report generation pipeline bridging a frozen transformer encoder to **Llama-3-8B (4-bit NF4 QLoRA)** via a 32-query **Q-Former** on a single 24GB GPU.
+- 🎯 **Current Flagship Builds:** Architecting **CardioScribe-v2** (a multimodal 12-lead ECG-to-clinical report generation pipeline bridging a frozen Transformer encoder to **Llama-3-8B 4-bit NF4 QLoRA** via a 32-query **Q-Former**) and **Renewable-Site-Vision-AI** (an `L0–L4` geospatial CV & **CorrDiff** micro-climate downscaling system with **0.8721 mIoU** segmentation).
 - 🔬 **Peer-Reviewed Research:** Published author in **Springer Nature** (*Dual-Stream Anxiety Detection via LSTM & CNN*) and **IEEE** (*Efficient Cloud Resource Allocation*).
 - 🏆 **National Recognition:** Secured **Top 25 All India Rank (AIR)** at the **eLSI Hackathon 2024** (e-Yantra, IIT Bombay).
 
@@ -30,8 +30,8 @@ I am a Computer Science Engineer building production-minded systems at the inter
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Generative AI & LLMs** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Llama-3](https://img.shields.io/badge/Llama--3--8B-4--bit_NF4_QLoRA-8A2BE2?style=flat-square) ![Q-Former](https://img.shields.io/badge/Multimodal-Q--Former_%7C_Wav2Vec_2.0-54D5DF?style=flat-square) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-CNN_%7C_LSTM-FF6F00?style=flat-square) ![PIGP](https://img.shields.io/badge/Probabilistic_ML-Physics--Informed_GP_%7C_GA-10B7C7?style=flat-square) |
+| **Generative AI & LLMs** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Llama-3](https://img.shields.io/badge/Llama--3--8B-4--bit_NF4_QLoRA-8A2BE2?style=flat-square) ![Q-Former](https://img.shields.io/badge/Multimodal-Q--Former_%7C_Transformer_Encoder-54D5DF?style=flat-square) ![CorrDiff](https://img.shields.io/badge/Generative_AI-CorrDiff_%7C_TERRA_Agent-00A67E?style=flat-square) |
+| **Machine Learning & CV** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7--Class_Segmentation_%7C_GIS-FF6F00?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-CNN_%7C_LSTM-E91E63?style=flat-square) ![PIGP](https://img.shields.io/badge/Probabilistic_ML-Physics--Informed_GP_%7C_GA-10B7C7?style=flat-square) |
 | **Analytics, BI & Data** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 
 ---
@@ -42,9 +42,9 @@ I am a Computer Science Engineer building production-minded systems at the inter
   <tr>
     <td width="50%" valign="top">
       <h3>🫀 CardioScribe-v2</h3>
-      <sub>PyTorch · Wav2Vec 2.0 · Q-Former · Llama-3-8B · QLoRA</sub>
-      <p>Signal-to-text architecture converting 10-second, 12-lead ECG waveforms into structured clinical reports on a single 24GB GPU, grounded with PR/QRS/QTc regression heads and numeric-consistency validation.</p>
-      <a href="https://github.com/aparijit05072004/CardioScribe-v2">Explore CardioScribe-v2 ↗</a> &nbsp;·&nbsp; <a href="https://github.com/aparijit05072004/Cardio_Scribe">v1 Repo ↗</a>
+      <sub>PyTorch · Transformer Encoder · Q-Former · Llama-3-8B · QLoRA</sub>
+      <p>Signal-to-text architecture converting 10-second, 12-lead ECG waveforms into structured clinical reports on a single 24GB GPU, clearing a 0.9307 macro-AUROC encoder gate on PTB-XL 1.0.3 with a live browser signal-processing engine.</p>
+      <a href="https://github.com/aparijit05072004/CardioScribe-v2">Explore CardioScribe-v2 ↗</a>  ·  <a href="https://github.com/aparijit05072004/Cardio_Scribe">v1 Repo ↗</a>  ·  <a href="https://aparijit05072004.github.io/Cardio_Scribe/">Live Demo ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 India CPI Inflation Analytics</h3>
@@ -57,7 +57,7 @@ I am a Computer Science Engineer building production-minded systems at the inter
     <td width="50%" valign="top">
       <h3>🧪 Physics-Informed GP Biogas Yield</h3>
       <sub>Python · Physics-Informed Gaussian Process · Genetic Algorithm</sub>
-      <p>Hybrid probabilistic model embedding biochemical and thermodynamic laws directly into the covariance kernel to predict and optimize biogas yield from organic waste, achieving R² &gt; 0.99 under extreme data scarcity.</p>
+      <p>Hybrid probabilistic model embedding biochemical and thermodynamic laws directly into the covariance kernel to predict and optimize biogas yield from organic waste, achieving R² > 0.99 under extreme data scarcity.</p>
       <a href="https://github.com/adityaroy3010/Physics-Informed-GPR-Biogas-Yield-Prediction-From-Organic-Waste">Explore repository ↗</a>
     </td>
     <td width="50%" valign="top">
@@ -75,10 +75,10 @@ I am a Computer Science Engineer building production-minded systems at the inter
       <a href="https://github.com/aparijit05072004/Global-Multicity-AQI-Timeseries-Regression-Analysis-ML">Explore repository ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Retail Sales Profitability BI</h3>
-      <sub>Power BI · DAX · Power Query · Star-Schema Modeling</sub>
-      <p>End-to-end Power BI executive dashboard analyzing 4 years of multi-store retail operations (5,000 transactions, 5 stores, 500+ customers) using a star-schema data model and 38+ custom DAX measures.</p>
-      <a href="https://github.com/aparijit05072004/Retail-Sales-Profitability-Dashboard-PowerBI">Explore repository ↗</a>
+      <h3>🌍 Renewable-Site-Vision-AI</h3>
+      <sub>PyTorch · Semantic Segmentation · CorrDiff · Geospatial AI · TERRA</sub>
+      <p>End-to-end L0–L4 spatial suitability and micro-climate pipeline for solar and wind site selection, featuring 7-class parcel segmentation (mIoU = 0.8721 at 0.05s/1024px), physics-calibrated CorrDiff wind downscaling, and the TERRA assistant (1.8s e2e).</p>
+      <a href="https://github.com/aparijit05072004/Renewable-Site-Vision-AI">Explore repository ↗</a>
     </td>
   </tr>
 </table>
