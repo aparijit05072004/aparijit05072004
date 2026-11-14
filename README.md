@@ -41,7 +41,7 @@ I am a Computer Science Engineer building production-minded systems at the inter
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🫀 CardioScribe-v2</h3>
+      <h3>🫀 CardioScribe</h3>
       <sub>PyTorch · Transformer Encoder · Q-Former · Llama-3-8B · QLoRA</sub>
       <p>Signal-to-text architecture converting 10-second, 12-lead ECG waveforms into structured clinical reports on a single 24GB GPU, clearing a 0.9307 macro-AUROC encoder gate on PTB-XL 1.0.3 with a live browser signal-processing engine.</p>
       <a href="https://github.com/aparijit05072004/CardioScribe-v2">Explore CardioScribe-v2 ↗</a>  ·  <a href="https://github.com/aparijit05072004/Cardio_Scribe">v1 Repo ↗</a>  ·  <a href="https://aparijit05072004.github.io/Cardio_Scribe/">Live Demo ↗</a>
