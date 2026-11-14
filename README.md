@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./assets/profile-hero.svg" alt="Aparijit Chakraborty — From Signals to Systems" width="100%" />
   <br /><br />
